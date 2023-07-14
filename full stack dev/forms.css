@@ -1,0 +1,45 @@
+img{
+    position: absolute;
+    z-index: -1;
+    background-size: 50%;
+    background-repeat: repeat-x;
+    width: 100%;
+    
+}
+.container{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 450px;
+    margin-left: 600px;
+}
+p{
+    border-radius: 23px;
+}
+
+#head{
+    text-align: center;
+    margin-top: 250px;
+}
+#name{
+    border-radius: 23px;
+}
+#age{
+    border-radius: 23px;
+}
+#email{
+    border-radius: 23px;
+}
+#num{
+    border-radius: 23px;
+}
+#dob{
+    border-radius: 23px;
+    padding: 5px;
+}
+#sub{
+    margin-left: 100px;
+
+}
+button:hover{
+    color: aqua;
+    background-color: brown;
+}
